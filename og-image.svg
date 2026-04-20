@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#1e2226"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#C9922A"/>
+  <g transform="translate(120, 215)">
+    <rect x="0" y="0" width="110" height="110" rx="14" fill="#C9922A"/>
+    <text x="55" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="700" text-anchor="middle" fill="#1e2226">K</text>
+  </g>
+  <g transform="translate(270, 260)">
+    <text font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="700" fill="#ffffff">Kenwe<tspan font-style="italic" fill="#C9922A">ll</tspan></text>
+    <text y="48" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="6" fill="rgba(255,255,255,0.65)">KOZIJNEN</text>
+  </g>
+  <text x="120" y="430" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="400" fill="rgba(255,255,255,0.8)">Aluminium &amp; kunststof kozijnen op maat</text>
+  <text x="120" y="475" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="rgba(255,255,255,0.55)">Levering · Inmeten · Montage  |  Nederland &amp; België</text>
+  <text x="120" y="560" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#C9922A">kenwellkozijnen.com</text>
+</svg>
