@@ -1,0 +1,11 @@
+# Forceer LF-regeleindes voor alle tekstbestanden in de repo.
+# Dit voorkomt "LF will be replaced by CRLF"-waarschuwingen op Windows.
+* text=auto eol=lf
+
+# Binaire bestanden niet aanraken
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
