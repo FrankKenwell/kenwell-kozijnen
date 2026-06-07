@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 e878f27beda8b07c4dce20e5b2341e46d62d3949 Kenwell <info@kenwellconstruction.nl> 1776685224 +0200	commit (initial): Initial commit: Kenwell Kozijnen landing page
+e878f27beda8b07c4dce20e5b2341e46d62d3949 becd6023d03ba69ae22ec7209e4867f7bcb3feb2 Frank | Kenwell Construction <frank@kenwellconstruction.nl> 1776687800 +0200	commit: Fix: PVC merk Gealan i.p.v. Veralu
+becd6023d03ba69ae22ec7209e4867f7bcb3feb2 e7f067371f882fed2d2d760c4855e4bf4915d1b4 FrankKenwell <Frank@kenwellconstruction.nl> 1776689864 +0200	commit: Update index.html
+e7f067371f882fed2d2d760c4855e4bf4915d1b4 0875639f8664bb337d46e791f86713a432413b4a FrankKenwell <Frank@kenwellconstruction.nl> 1776690354 +0200	commit: Update index.html
+0875639f8664bb337d46e791f86713a432413b4a dae4f0042bb0f8a3538a4b5530447150e623e21c FrankKenwell <Frank@kenwellconstruction.nl> 1776691003 +0200	commit: Update index.html
+dae4f0042bb0f8a3538a4b5530447150e623e21c e9699330c63fe08975404c4ae666dd94a74f03de FrankKenwell <Frank@kenwellconstruction.nl> 1776691008 +0200	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+e9699330c63fe08975404c4ae666dd94a74f03de a176b135b3740f241a6da26c9b0d4dd8961cbebb FrankKenwell <Frank@kenwellconstruction.nl> 1776691261 +0200	commit: Update index.html
+a176b135b3740f241a6da26c9b0d4dd8961cbebb 76164a6cf6df325e75244cb066a4c5de9e7dbc28 FrankKenwell <Frank@kenwellconstruction.nl> 1776698815 +0200	commit: Update index.html
+76164a6cf6df325e75244cb066a4c5de9e7dbc28 7d8079ff28771d9d1dd09c305f963e1627a76783 FrankKenwell <Frank@kenwellconstruction.nl> 1776699630 +0200	commit: Create .gitattributes
+7d8079ff28771d9d1dd09c305f963e1627a76783 34de2fed15abe99598569b6074bc4e0e14f9b81a FrankKenwell <Frank@kenwellconstruction.nl> 1776699656 +0200	commit: Create sitemap.xml
+34de2fed15abe99598569b6074bc4e0e14f9b81a 2831bd85e0d189a85f2b341964f50d8ad95dbfdc FrankKenwell <Frank@kenwellconstruction.nl> 1776699668 +0200	commit: Update index.html
+2831bd85e0d189a85f2b341964f50d8ad95dbfdc f839daba97fafd2d592b9d2c4ffeb6b3f04e4d9c FrankKenwell <Frank@kenwellconstruction.nl> 1776699672 +0200	commit: Create og-image.svg
+f839daba97fafd2d592b9d2c4ffeb6b3f04e4d9c 3eef156bf35c57c2ecfde7813b87edb8ebe4d223 FrankKenwell <Frank@kenwellconstruction.nl> 1776699676 +0200	commit: Create robots.txt
